@@ -49,7 +49,7 @@ export default Markers;
 const MARKER_HEIGHT = 64;
 const MARKER_WIDTH = 54;
 const NUMBER_OF_MARKER = 13;
-const SCALE = 4 / 5;
+const SCALE = 2 / 3;
 
 const SCALED_MARKER_WIDTH = MARKER_WIDTH * SCALE;
 const SCALED_MARKER_HEIGHT = MARKER_HEIGHT * SCALE;
